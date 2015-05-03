@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>TTN - Play</title>
+		<meta name="generator" content="Bootply" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+</head>
+	<body>
+<div class="navbar navbar-default">
+  <div class="container">
+    <a class="navbar-brand">TTowers</a>
+    <ul class="nav navbar-nav">
+      <li class="active"><a>► Play</a></li>
+      <li><a href="http://thetowersne.zz.mu/forum/">● Forum</a></li>
+      <li><a href="/staff.html">● Staff</a></li>
+      <li><a href="/rules.html">● Rules</a></li>
+      <li class="divider-vertical"></li>
+      <li><a href="/tournaments.html">● Tournaments</a></li>
+      <li><a href="https://github.com/KeetNetwork/Issues/issues">● Issues</a></li>
+    </ul>
+  </div>
+</div>
+<section id="content"><div class="ic"></div>
+        <div class="container_12">	
+          <div class="grid_12">
+            <div class="wrap block-3 pad-2">
+                <div>
+                </div>
+            </div>
+          </div>
+		          </div>			
+        <div class="aside">
+            <div class="container_12">	
+                <div class="grid_12">
+                    <div class="pad-2 wrap">	    		
+<section>
+<div class="page-header">
+<h3 class="p5">Staff</h3>
+ <h3 style="color:#FA0">Administradores</h3>
+                        <div class="wrap block-4">
+     <a href="http://thetowersne.zz.mu/forum/index.php?action=profile;u=1">
+	<img class="avatar" src="http://thetowersne.zz.mu/forum/index.php?action=dlattach;attach=1;type=avatar" alt="">	<img class="avatar" src="http://avatar.oc.tc/RingRongo/32@2x.png" alt="">	
+	<a>vYuri</a>
+	
+	
+
+	<!-- script references -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+	</body>
+</html>
